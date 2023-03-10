@@ -65,7 +65,7 @@ window.addEventListener('DOMContentLoaded', async () => {
     ],
     controls: defaultControls({zoom: false,}),
     view: new View({
-      center: transform([78.473973, 17.424787], 'EPSG:4326','EPSG:3857'),
+      center: transform([110.367088, -7.782928], 'EPSG:4326','EPSG:3857'),
       zoom: 11
     })
   });
