@@ -14,10 +14,10 @@ var initconfig = {
   },
   mapconfig: {
     mapstate: 'default',
-    initcentroid: { x: '78.473973', y: '17.424787' },
-    initzoom: '10',
-    lastcentroid: { x: '78.473973', y: '17.424787' },
-    lastzoom: '10',
+    initcentroid: { x: '110.367088', y: '-7.782928' },
+    initzoom: '14',
+    lastcentroid: { x: '110.367088', y: '-7.782928' },
+    lastzoom: '14',
     zoomcontrol: true,
     basemaps: {
       flag: 1,
